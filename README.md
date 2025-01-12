@@ -1,6 +1,6 @@
 # final_project_area_zero
 
-### This sketch is a game that uses a puzzle to solve to win, and an enemy as a threat to make the game more tense and fun, and as a way to lose.
+### This sketch is a game that uses a puzzle that must be solved to win, and an enemy as a threat to make the game more tense and fun, and as a way to lose.
 
 >wasd keys and enter for the player movement and swapping the tiles, respectively.
 >
